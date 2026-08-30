@@ -2,11 +2,11 @@
 
   <!-- Header Banner / Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Moli+Agrawal!;Full-Stack+%26+Security+Architect;IPFS+%26+Decentralized+CDN+Engineer;Smart+Parking+%26+Web3+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Moli+Agrawal!;Full-Stack+%26+Security+Architect;IPFS+%26+Decentralized+CDN+Engineer;Smart+Parking+%26+Web3+Developer;Blockchain+Indexing+%26+Systems+Architect" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Software Development Engineer | Full-Stack, Security CTF Platforms, IPFS & Web3 Systems</b>
+    <b>Software Development Engineer | Full-Stack, CTF Platforms, IPFS, Web3 & Systems</b>
   </p>
 
   <!-- Social Badges -->
@@ -31,14 +31,20 @@
 ```yaml
 name: Moli Agrawal
 role: Software Development Engineer (SDE)
-flagship_projects: TCB CTF Platform, IPFS Decentralised CDN, SIH Smart Parking
-specializations: Next.js + MongoDB App Engines, Decentralized IPFS Storage, Smart IoT Systems, Web3 Activity Feeds
-hackathons: Smart India Hackathon (SIH), GDG Solution Challenge 2025, TCB CTF, Road to Devcon
+pinned_projects_count: 6
+flagship_lineup:
+  1: TCB Carnival Carousel CTF Platform
+  2: IPFS Decentralised CDN
+  3: SIH Smart Parking Application
+  4: Wallet Activity Feed Engine
+  5: Reorg-Safe Event Watcher Indexer
+  6: Multi-Chain Portfolio Valuation Engine
+specializations: Next.js + MongoDB App Systems, IPFS Peer-to-Peer Networks, IoT Smart Platforms, Web3 Event Indexers
 ```
 
-- 🔭 **Building**: Security CTF competition engines, IPFS decentralized CDN infrastructure, Smart Parking IoT systems, and high-performance Ethereum activity aggregators.
-- 🔮 **Exploring**: Distributed content delivery networks, scalable MongoDB architectures, Zero Knowledge Proofs, and smart web applications.
-- 💡 **Engineering Philosophy**: High technical depth, clean modular abstractions, and state-of-the-art user experience.
+- 🔭 **Building**: Production CTF competition platforms, IPFS decentralized CDN infrastructure, Smart Parking systems, and high-performance Ethereum transaction aggregators.
+- 🔮 **Exploring**: Peer-to-peer storage networks, reorg-safe blockchain indexing, scalable MongoDB architectures, and glassmorphism web applications.
+- 💡 **Engineering Philosophy**: Technical depth, clean modular abstractions, and state-of-the-art user experience.
 
 ---
 
@@ -70,15 +76,16 @@ hackathons: Smart India Hackathon (SIH), GDG Solution Challenge 2025, TCB CTF, R
 
 ---
 
-### 🌟 Top 5 SDE Flagship Projects
+### 🌟 Top 6 Pinned Flagship Projects
 
-| Project | Key Technical Depth & Engineering Highlights | Primary Stack |
+| Project | Engineering Highlights & Technical Depth | Stack |
 | :--- | :--- | :--- |
-| 🛡️ [**tcb-carnival-carousel-ctf**](https://github.com/moliagrawal/tcb-carnival-carousel-ctf) | **Next.js + MongoDB CTF Platform**: Production CTF competition system with flag verification APIs (`/api/checkAnswer`), team formation mechanics, score leaderboards, & custom Matrix canvas effects | `Next.js` `MongoDB` `Node.js` `Security` |
+| 🛡️ [**tcb-carnival-carousel-ctf**](https://github.com/moliagrawal/tcb-carnival-carousel-ctf) | **Next.js + MongoDB CTF Platform**: Production CTF competition platform with flag verification APIs (`/api/checkAnswer`), team formation mechanics, score leaderboards, & Matrix canvas visual effects | `Next.js` `MongoDB` `Node.js` `Security` |
 | 🌐 [**ipfs-decentralised-cdn**](https://github.com/moliagrawal/ipfs-decentralised-cdn) | **IPFS Decentralised Content Delivery Network**: Peer-to-peer decentralized storage and content distribution system leveraging InterPlanetary File System (IPFS) | `IPFS` `Vue.js` `Web3` `CDN` |
 | 🚗 [**SIH_SmartParking**](https://github.com/moliagrawal/SIH_SmartParking) | **SIH Smart Parking Application**: Smart India Hackathon solution featuring real-time parking slot tracking, interactive reservation UI, & sensor telemetry API | `JavaScript` `IoT` `Node.js` `Web UI` |
 | ⚡ [**wallet-activity-feed**](https://github.com/moliagrawal/wallet-activity-feed) | **Ethereum Activity Feed Engine**: High-performance TS query & sorting engine merging transaction streams via Alchemy API with glassmorphism UI | `TypeScript` `Alchemy` `React` |
-| 🚀 [**solution-challenge-2025**](https://github.com/moliagrawal/solution-challenge-2025) | **GDG Solution Challenge 2025**: Full-stack social impact application prototype built for Google Developer Student Clubs | `TypeScript` `React` `Node.js` |
+| 🔄 [**event-watcher**](https://github.com/moliagrawal/event-watcher) | **Reorg-Safe Blockchain Indexer**: Zero-duplicate, zero-gap on-chain Ethereum event watcher service built for Road to Devcon - I | `TypeScript` `Node.js` `Ethereum` |
+| 🌐 [**multichain-portfolio**](https://github.com/moliagrawal/multichain-portfolio) | **Multi-Chain Portfolio Engine**: Multi-chain valuation CLI & web dashboard with robust partial-data error classification | `TypeScript` `Next.js` `Web3 CLI` |
 
 ---
 

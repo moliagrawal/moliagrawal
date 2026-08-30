@@ -1,101 +1,135 @@
 <div align="center">
 
-  <!-- Header Banner / Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Moli+Agrawal!;Full-Stack+%26+Security+Architect;IPFS+%26+Decentralized+CDN+Engineer;Smart+Parking+%26+Web3+Developer;Blockchain+Indexing+%26+Systems+Architect" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:D97706&height=220&section=header&text=Moli%20Agrawal&fontSize=60&fontColor=FFF8E7&fontAlignY=38&animation=fadeIn&desc=Architect%20of%20Decentralised%20Realms&descAlignY=58&descSize=20&descColor=E9D8FD" width="100%"/>
 
-  <p align="center">
-    <b>Building resilient decentralised systems, smart contracts, security platforms, & modern web applications.</b>
-  </p>
-
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="mailto:agrawalmoli1945@gmail.com">
-      <img src="https://img.shields.io/badge/Email-agrawalmoli1945%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/moliagrawal">
-      <img src="https://img.shields.io/badge/GitHub-moliagrawal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&duration=3500&pause=900&color=D4AF37&center=true&vcenter=true&width=680&height=60&lines=Keeper+of+the+Ledger+of+Chains;Forger+of+Trustless+Contracts;Builder+of+the+Decentralised+Archive;By+decree%2C+the+code+shall+not+lie" alt="Typing SVG" />
+</a>
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/⚜️_Realm-India-6D28D9?style=for-the-badge&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/👑_Title-Full--Stack_%26_Web3_Artisan-D97706?style=for-the-badge&labelColor=1E1B4B" />
+</div>
+
+<br/>
+
+> *"Every kingdom needs a ledger no one can forge, and a vault no single hand can empty."*
+> — from the Chronicles of Moli, on why trustless systems are worth building
+
 ---
 
-### ⚡ About Me
+### 📜 The Decree
+
+I build systems that don't need to be trusted, only verified — smart contracts, decentralised storage, and the quiet infrastructure that watches a chain so no one else has to. My current chapter: **Road to Devcon**, forging escrow vaults, lineage registries, and cooperative treasuries in Solidity.
 
 ```yaml
-name: Moli Agrawal
-location: India
-role: Full-Stack, Web3, Security & AI Developer
-passion: Decentralized Systems, Smart Contracts, Glassmorphism UI, Autonomous AI Agents, CTF Platforms
-hackathons: Smart India Hackathon (SIH), GDG Solution Challenge 2025, TCB CTF, Road to Devcon - I & II
-current_focus: Building production CTF competition engines, IPFS decentralized CDN infrastructure, & reorg-safe Ethereum watchers
+current_quest: Road to Devcon — building reentrancy-safe vaults & attestation registries
+guild: Full-Stack, Web3, Security & Systems
+artifacts_forged: CTF platforms, IPFS networks, Ethereum indexers, Solidity contracts
+oath: code that holds its promise, even when no one is watching
 ```
-
-- 🔭 **Working on**: Production CTF competition platforms, IPFS decentralized storage networks, Smart Parking IoT systems, and high-performance Ethereum transaction aggregators.
-- 🔮 **Exploring**: Peer-to-peer storage networks, reorg-safe blockchain indexing, scalable MongoDB architectures, Zero Knowledge Proofs, and Glassmorphism web UI design.
-- 💡 **Philosophy**: Clean modular code, rigorous data consistency, and wowed UX design.
 
 ---
 
-### 🚀 Tech Stack & Toolkit
+### 🏰 The Six Great Artifacts
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ [tcb-carnival-carousel-ctf](https://github.com/moliagrawal/tcb-carnival-carousel-ctf)**
+A fortress of trials — a full CTF competition platform with flag verification, guild formation, and a leaderboard etched in MongoDB.
+`Next.js` `MongoDB` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [ipfs-decentralised-cdn](https://github.com/moliagrawal/ipfs-decentralised-cdn)**
+A network with no single throne — content delivered peer to peer, so no one kingdom holds the only copy.
+`IPFS` `Vue.js` `Web3`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚗 [SIH_SmartParking](https://github.com/moliagrawal/SIH_SmartParking)**
+A watchtower for the realm's carriages — real-time sensor telemetry and reservation, built for Smart India Hackathon.
+`JavaScript` `IoT` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ [wallet-activity-feed](https://github.com/moliagrawal/wallet-activity-feed)**
+A scribe that reads the ledger truly — every transfer, every category, drained page by page, told as one honest story.
+`TypeScript` `Alchemy` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔄 [event-watcher](https://github.com/moliagrawal/event-watcher)**
+A sentinel that never sleeps and never repeats itself twice — built to survive a fallen watch and a reorganised chain alike.
+`TypeScript` `Ethereum` `Systems`
+
+</td>
+<td width="50%" valign="top">
+
+**💰 [multichain-portfolio](https://github.com/moliagrawal/multichain-portfolio)**
+A treasurer's true accounting across five realms at once — and honest enough to say when a realm's report didn't arrive.
+`TypeScript` `Multi-chain` `CLI`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚔️ The Armoury
 
 <div align="center">
 
-#### 🌐 Languages & Core
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⛓️ Web3 & Decentralized Tech
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Alchemy](https://img.shields.io/badge/Alchemy-0052FF?style=for-the-badge&logo=alchemy&logoColor=white)
-
-#### 🎨 Frontend & UI Systems
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🛠️ Backend, AI & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-6D28D9?style=for-the-badge&logo=solidity&logoColor=D4AF37)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=D4AF37)
+![Ethereum](https://img.shields.io/badge/Ethereum-2E1065?style=for-the-badge&logo=ethereum&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&logo=react&logoColor=D4AF37)
+![Node.js](https://img.shields.io/badge/Node.js-2E1065?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=D4AF37)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E1065?style=for-the-badge&logo=mongodb&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=D4AF37)
 
 </div>
 
 ---
 
-### 🌟 Top 6 Flagship Projects
+### 📖 The Ledger of Deeds
 
-| Project | Description & Technical Depth | Tech Stack |
-| :--- | :--- | :--- |
-| 🛡️ [**tcb-carnival-carousel-ctf**](https://github.com/moliagrawal/tcb-carnival-carousel-ctf) | **Next.js + MongoDB CTF Platform**: Production CTF competition platform with flag verification APIs (`/api/checkAnswer`), team formation mechanics, score leaderboards, & Matrix canvas visual effects | `Next.js` `MongoDB` `Node.js` `Security` |
-| 🌐 [**ipfs-decentralised-cdn**](https://github.com/moliagrawal/ipfs-decentralised-cdn) | **IPFS Decentralised Content Delivery Network**: Peer-to-peer decentralized storage and content distribution system leveraging InterPlanetary File System (IPFS) | `IPFS` `Vue.js` `Web3` `CDN` |
-| 🚗 [**SIH_SmartParking**](https://github.com/moliagrawal/SIH_SmartParking) | **SIH Smart Parking Application**: Smart India Hackathon solution featuring real-time parking slot tracking, interactive reservation UI, & sensor telemetry API | `JavaScript` `IoT` `Node.js` `Web UI` |
-| ⚡ [**wallet-activity-feed**](https://github.com/moliagrawal/wallet-activity-feed) | **Ethereum Activity Feed Engine**: High-performance TS query & sorting engine merging transaction streams via Alchemy API with glassmorphism UI | `TypeScript` `Alchemy` `React` |
-| 🔄 [**event-watcher**](https://github.com/moliagrawal/event-watcher) | **Reorg-Safe Blockchain Indexer**: Zero-duplicate, zero-gap on-chain Ethereum event watcher service built for Road to Devcon - I | `TypeScript` `Node.js` `Ethereum` |
-| 🌐 [**multichain-portfolio**](https://github.com/moliagrawal/multichain-portfolio) | **Multi-Chain Portfolio Engine**: Multi-chain valuation CLI & web dashboard with robust partial-data error classification | `TypeScript` `Next.js` `Web3 CLI` |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moliagrawal&show_icons=true&hide_border=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=E9D8FD&bg_color=00000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moliagrawal&hide_border=true&theme=transparent&ring=D4AF37&fire=D97706&currStreakLabel=E9D8FD&background=00000000" width="49%"/>
+
+</div>
+
+<div align="center">
+  <sub><i>(These render automatically once the profile repo is live — no setup beyond pasting this in.)</i></sub>
+</div>
 
 ---
 
 <div align="center">
 
-  <sub>Designed with ❤️ for <b>Moli Agrawal</b></sub>
+### ✉️ Send a Raven
+
+<a href="mailto:agrawalmoli1945@gmail.com">
+  <img src="https://img.shields.io/badge/By_Decree,_Write_to_Me-agrawalmoli1945@gmail.com-D97706?style=for-the-badge&logo=gmail&logoColor=FFF8E7&labelColor=1E1B4B" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:6D28D9,100:2E1065&height=100&section=footer" width="100%"/>
 
 </div>

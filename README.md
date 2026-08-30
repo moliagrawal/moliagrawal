@@ -2,11 +2,11 @@
 
   <!-- Header Banner / Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Moli+Agrawal!;Full-Stack+%26+Security+Architect;Web3+%26+Smart+Contract+Developer;AI+Agent+%26+Systems+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Moli+Agrawal!;Full-Stack+%26+Security+Architect;IPFS+%26+Decentralized+CDN+Engineer;Smart+Parking+%26+Web3+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Software Development Engineer | Full-Stack, Web3, Smart Contracts & AI Systems</b>
+    <b>Software Development Engineer | Full-Stack, Security CTF Platforms, IPFS & Web3 Systems</b>
   </p>
 
   <!-- Social Badges -->
@@ -31,14 +31,14 @@
 ```yaml
 name: Moli Agrawal
 role: Software Development Engineer (SDE)
-specializations: Full-Stack Systems, CTF & Security Platforms, Web3 Smart Contracts, AI Agents
-hackathons: Road to Devcon - I & II, GDG Solution Challenge 2025, TCB CTF
-current_focus: Next.js + MongoDB App Architectures, Reorg-Safe Blockchain Indexing & High-Performance Engines
+flagship_projects: TCB CTF Platform, IPFS Decentralised CDN, SIH Smart Parking
+specializations: Next.js + MongoDB App Engines, Decentralized IPFS Storage, Smart IoT Systems, Web3 Activity Feeds
+hackathons: Smart India Hackathon (SIH), GDG Solution Challenge 2025, TCB CTF, Road to Devcon
 ```
 
-- 🔭 **Building**: Production CTF competition platforms, reorg-safe Ethereum indexers, & multi-chain portfolio valuation engines.
-- 🔮 **Exploring**: Distributed systems resilience, Zero Knowledge Proofs, & Autonomous AI Telemetry Agents.
-- 💡 **Engineering Philosophy**: Clean modular abstractions, rigorous data consistency, and wowed user experience.
+- 🔭 **Building**: Security CTF competition engines, IPFS decentralized CDN infrastructure, Smart Parking IoT systems, and high-performance Ethereum activity aggregators.
+- 🔮 **Exploring**: Distributed content delivery networks, scalable MongoDB architectures, Zero Knowledge Proofs, and smart web applications.
+- 💡 **Engineering Philosophy**: High technical depth, clean modular abstractions, and state-of-the-art user experience.
 
 ---
 
@@ -46,30 +46,23 @@ current_focus: Next.js + MongoDB App Architectures, Reorg-Safe Blockchain Indexi
 
 <div align="center">
 
-#### 🌐 Core Languages
+#### 🌐 Core Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🎨 Full-Stack Web & Databases
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### ⛓️ IPFS & Web3 Infrastructure
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-0052FF?style=for-the-badge&logo=alchemy&logoColor=white)
+
+#### 🛠️ Databases, Backend & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⛓️ Web3 & Smart Contracts
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Alchemy](https://img.shields.io/badge/Alchemy-0052FF?style=for-the-badge&logo=alchemy&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-#### 🛠️ AI, Infrastructure & Developer Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -77,26 +70,15 @@ current_focus: Next.js + MongoDB App Architectures, Reorg-Safe Blockchain Indexi
 
 ---
 
-### 🌟 Top SDE Featured Projects
+### 🌟 Top 5 SDE Flagship Projects
 
-| Project | Key Engineering Highlights | Primary Stack |
+| Project | Key Technical Depth & Engineering Highlights | Primary Stack |
 | :--- | :--- | :--- |
-| 🛡️ [**tcb-carnival-carousel-ctf**](https://github.com/moliagrawal/tcb-carnival-carousel-ctf) | **Next.js + MongoDB CTF Platform**: Full-stack CTF competition system with flag verification, team management, auth APIs, & Matrix animation UI | `Next.js` `MongoDB` `Node.js` `CTF` |
+| 🛡️ [**tcb-carnival-carousel-ctf**](https://github.com/moliagrawal/tcb-carnival-carousel-ctf) | **Next.js + MongoDB CTF Platform**: Production CTF competition system with flag verification APIs (`/api/checkAnswer`), team formation mechanics, score leaderboards, & custom Matrix canvas effects | `Next.js` `MongoDB` `Node.js` `Security` |
+| 🌐 [**ipfs-decentralised-cdn**](https://github.com/moliagrawal/ipfs-decentralised-cdn) | **IPFS Decentralised Content Delivery Network**: Peer-to-peer decentralized storage and content distribution system leveraging InterPlanetary File System (IPFS) | `IPFS` `Vue.js` `Web3` `CDN` |
+| 🚗 [**SIH_SmartParking**](https://github.com/moliagrawal/SIH_SmartParking) | **SIH Smart Parking Application**: Smart India Hackathon solution featuring real-time parking slot tracking, interactive reservation UI, & sensor telemetry API | `JavaScript` `IoT` `Node.js` `Web UI` |
 | ⚡ [**wallet-activity-feed**](https://github.com/moliagrawal/wallet-activity-feed) | **Ethereum Activity Feed Engine**: High-performance TS query & sorting engine merging transaction streams via Alchemy API with glassmorphism UI | `TypeScript` `Alchemy` `React` |
-| 🔄 [**event-watcher**](https://github.com/moliagrawal/event-watcher) | **Reorg-Safe Blockchain Indexer**: Zero-duplicate, zero-gap on-chain Ethereum event watcher service for Road to Devcon - I | `TypeScript` `Node.js` `Ethereum` |
-| 🌐 [**multichain-portfolio**](https://github.com/moliagrawal/multichain-portfolio) | **Multi-Chain Portfolio Engine**: Multi-chain valuation CLI & web dashboard with robust partial-data error classification | `TypeScript` `Next.js` `Web3 CLI` |
 | 🚀 [**solution-challenge-2025**](https://github.com/moliagrawal/solution-challenge-2025) | **GDG Solution Challenge 2025**: Full-stack social impact application prototype built for Google Developer Student Clubs | `TypeScript` `React` `Node.js` |
-
----
-
-### 📊 Engineering Stats & Highlights
-
-<div align="center">
-
-  ![GitHub Activity Overview](https://img.shields.io/badge/GitHub_Repos-31_Public_Projects-blue?style=for-the-badge&logo=github)
-  ![Primary Expertise](https://img.shields.io/badge/Focus-FullStack_%7C_Web3_%7C_Security-purple?style=for-the-badge)
-
-</div>
 
 ---
 

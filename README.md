@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>Software Development Engineer | Full-Stack, CTF Platforms, IPFS, Web3 & Systems</b>
+    <b>Building resilient decentralised systems, smart contracts, security platforms, & modern web applications.</b>
   </p>
 
   <!-- Social Badges -->
@@ -30,45 +30,50 @@
 
 ```yaml
 name: Moli Agrawal
-role: Software Development Engineer (SDE)
-pinned_projects_count: 6
-flagship_lineup:
-  1: TCB Carnival Carousel CTF Platform
-  2: IPFS Decentralised CDN
-  3: SIH Smart Parking Application
-  4: Wallet Activity Feed Engine
-  5: Reorg-Safe Event Watcher Indexer
-  6: Multi-Chain Portfolio Valuation Engine
-specializations: Next.js + MongoDB App Systems, IPFS Peer-to-Peer Networks, IoT Smart Platforms, Web3 Event Indexers
+location: India
+role: Full-Stack, Web3, Security & AI Developer
+passion: Decentralized Systems, Smart Contracts, Glassmorphism UI, Autonomous AI Agents, CTF Platforms
+hackathons: Smart India Hackathon (SIH), GDG Solution Challenge 2025, TCB CTF, Road to Devcon - I & II
+current_focus: Building production CTF competition engines, IPFS decentralized CDN infrastructure, & reorg-safe Ethereum watchers
 ```
 
-- 🔭 **Building**: Production CTF competition platforms, IPFS decentralized CDN infrastructure, Smart Parking systems, and high-performance Ethereum transaction aggregators.
-- 🔮 **Exploring**: Peer-to-peer storage networks, reorg-safe blockchain indexing, scalable MongoDB architectures, and glassmorphism web applications.
-- 💡 **Engineering Philosophy**: Technical depth, clean modular abstractions, and state-of-the-art user experience.
+- 🔭 **Working on**: Production CTF competition platforms, IPFS decentralized storage networks, Smart Parking IoT systems, and high-performance Ethereum transaction aggregators.
+- 🔮 **Exploring**: Peer-to-peer storage networks, reorg-safe blockchain indexing, scalable MongoDB architectures, Zero Knowledge Proofs, and Glassmorphism web UI design.
+- 💡 **Philosophy**: Clean modular code, rigorous data consistency, and wowed UX design.
 
 ---
 
-### 🚀 Tech Stack & Core Competencies
+### 🚀 Tech Stack & Toolkit
 
 <div align="center">
 
-#### 🌐 Core Languages & Frameworks
+#### 🌐 Languages & Core
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⛓️ Web3 & Decentralized Tech
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-0052FF?style=for-the-badge&logo=alchemy&logoColor=white)
+
+#### 🎨 Frontend & UI Systems
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⛓️ IPFS & Web3 Infrastructure
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Alchemy](https://img.shields.io/badge/Alchemy-0052FF?style=for-the-badge&logo=alchemy&logoColor=white)
-
-#### 🛠️ Databases, Backend & Infrastructure
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 🛠️ Backend, AI & Infrastructure
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -76,9 +81,9 @@ specializations: Next.js + MongoDB App Systems, IPFS Peer-to-Peer Networks, IoT 
 
 ---
 
-### 🌟 Top 6 Pinned Flagship Projects
+### 🌟 Top 6 Flagship Projects
 
-| Project | Engineering Highlights & Technical Depth | Stack |
+| Project | Description & Technical Depth | Tech Stack |
 | :--- | :--- | :--- |
 | 🛡️ [**tcb-carnival-carousel-ctf**](https://github.com/moliagrawal/tcb-carnival-carousel-ctf) | **Next.js + MongoDB CTF Platform**: Production CTF competition platform with flag verification APIs (`/api/checkAnswer`), team formation mechanics, score leaderboards, & Matrix canvas visual effects | `Next.js` `MongoDB` `Node.js` `Security` |
 | 🌐 [**ipfs-decentralised-cdn**](https://github.com/moliagrawal/ipfs-decentralised-cdn) | **IPFS Decentralised Content Delivery Network**: Peer-to-peer decentralized storage and content distribution system leveraging InterPlanetary File System (IPFS) | `IPFS` `Vue.js` `Web3` `CDN` |
@@ -91,6 +96,6 @@ specializations: Next.js + MongoDB App Systems, IPFS Peer-to-Peer Networks, IoT 
 
 <div align="center">
 
-  <sub>Crafted for <b>Moli Agrawal</b> | SDE Portfolio & Profile</sub>
+  <sub>Designed with ❤️ for <b>Moli Agrawal</b></sub>
 
 </div>

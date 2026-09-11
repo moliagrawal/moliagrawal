@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-India-6D28D9?style=for-the-badge&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/💼_Role-Full--Stack%2C_Web3_%26_Systems_Engineer-D97706?style=for-the-badge&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%2C_Web3_%26_Systems_Engineer-D97706?style=for-the-badge&logo=code-climate&logoColor=white&labelColor=1E1B4B" />
 </div>
 
 <br/>
@@ -34,31 +34,43 @@ approach: correctness under real-world failure conditions — restarts, reorgs, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/moliagrawal/micromouse25">micromouse25</a></h4>
+      <h4>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -3px; margin-right: 6px;"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M15 2v2M9 2v2M15 20v2M9 20v2M20 15h2M20 9h2M2 15h2M2 9h2"/></svg>
+        <a href="https://github.com/moliagrawal/micromouse25">micromouse25</a>
+      </h4>
       <p>Autonomous maze-solving robot using flood-fill and A* pathfinding, encoder feedback, and real-time PID motor control. Built in C++ for the Aviation Club's robotics competition.</p>
-      <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Autonomous_Robotics-6D28D9?style=flat-square"/>
       <img src="https://img.shields.io/badge/Algorithms-D97706?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🏛️ <a href="https://github.com/moliagrawal/SIH_SmartParking">SIH_SmartParking</a></h4>
-      <p>Real-time parking management system with sensor telemetry, slot reservation, and occupancy tracking, built for Smart India Hackathon.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Smart_IoT-6D28D9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <h4>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -3px; margin-right: 6px;"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg>
+        <a href="https://github.com/moliagrawal/SIH_SmartParking">SIH_SmartParking</a>
+      </h4>
+      <p>Real-time parking space management web application with sensor telemetry, slot reservation, occupancy tracking, and ML-based spot detection, built for Smart India Hackathon.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/moliagrawal/tcb-carnival-carousel-ctf">tcb-carnival-carousel-ctf</a></h4>
-      <p>Full CTF competition platform with flag-verification APIs, team formation, score leaderboards backed by MongoDB, and a custom visual interface.</p>
+      <h4>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -3px; margin-right: 6px;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        <a href="https://github.com/moliagrawal/tcb-carnival-carousel-ctf">tcb-carnival-carousel-ctf</a>
+      </h4>
+      <p>Capture-The-Flag competition web platform with flag-verification APIs, team formation, score leaderboards backed by MongoDB, and a custom visual interface.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/CTF_Security-D97706?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/moliagrawal/ipfs-decentralised-cdn">ipfs-decentralised-cdn</a></h4>
-      <p>Decentralised content delivery network built on IPFS — peer-to-peer file distribution with no single point of failure.</p>
+      <h4>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -3px; margin-right: 6px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        <a href="https://github.com/moliagrawal/ipfs-decentralised-cdn">ipfs-decentralised-cdn</a>
+      </h4>
+      <p>Decentralised content delivery web system built on IPFS — peer-to-peer file distribution with no single point of failure.</p>
       <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/P2P_Network-6D28D9?style=flat-square"/>
@@ -66,16 +78,24 @@ approach: correctness under real-world failure conditions — restarts, reorgs, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔑 <a href="https://github.com/moliagrawal/sftp-tunneler">sftp-tunneler</a></h4>
-      <p>Secure SFTP tunneling client with a connection performance monitor. <i>[Exact feature set to confirm against the repo — placeholder pending verification.]</i></p>
+      <h4>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -3px; margin-right: 6px;"><path d="M21 2l-2 2m-2-2l2 2m7 0a9 9 0 11-18 0 9 9 0 0118 0z"/><path d="M15.5 7.5L21 2M18.5 4.5L21 7"/></svg>
+        <a href="https://github.com/moliagrawal/sftp-tunneler">sftp-tunneler</a>
+      </h4>
+      <p>Streamlit web interface and Python toolkit for hosting and connecting to SSH-tunneled SFTP servers via Pinggy, featuring host-side tunnel automation, browser transfers with Paramiko, and IP access controls.</p>
       <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Networking-D97706?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/moliagrawal/FuelMe">FuelMe</a></h4>
-      <p>Full-stack TypeScript web application. <i>[Exact feature set to confirm against the repo — placeholder pending verification.]</i></p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Full--Stack-6D28D9?style=flat-square"/>
+      <h4>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -3px; margin-right: 6px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+        <a href="https://github.com/moliagrawal/FuelMe">FuelMe</a>
+      </h4>
+      <p>Web3 creator tipping and micro-funding platform built with Next.js and Wagmi/Viem, enabling direct Ethereum ETH tips to content creators with custom profiles and supporter walls.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Wagmi_/_Viem-D97706?style=flat-square"/>
     </td>
   </tr>
 </table>

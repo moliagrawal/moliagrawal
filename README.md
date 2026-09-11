@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:D97706&height=220&section=header&text=Moli%20Agrawal&fontSize=60&fontColor=FFF8E7&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Web3%20%26%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=E9D8FD" width="100%"/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3200&pause=900&color=D4AF37&center=true&vcenter=true&width=680&height=55&lines=Building+reentrancy-safe+smart+contracts;Reorg-safe+chain+infrastructure+%26+indexing;Autonomous+systems+%26+decentralised+storage;Currently%3A+Road+to+Devcon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=42&duration=3000&pause=1000&color=D4AF37&center=true&vcenter=true&width=680&height=75&lines=Moli+Agrawal" alt="Moli Agrawal" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=3200&pause=900&color=D97706&center=true&vcenter=true&width=680&height=45&lines=Full-Stack%2C+Web3+%26+Systems+Engineer;Building+reentrancy-safe+smart+contracts;Reorg-safe+chain+infrastructure+%26+indexing;Autonomous+systems+%26+decentralised+storage;Currently%3A+Road+to+Devcon" alt="Typing SVG" />
   </a>
 </div>
 
@@ -157,8 +159,4 @@ approach: correctness under real-world failure conditions — restarts, reorgs, 
   <a href="mailto:agrawalmoli1945@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-agrawalmoli1945@gmail.com-D97706?style=for-the-badge&logo=gmail&logoColor=FFF8E7&labelColor=1E1B4B" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:6D28D9,100:2E1065&height=100&section=footer" width="100%"/>
 </div>

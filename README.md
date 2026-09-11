@@ -138,15 +138,6 @@ oath: Code that holds its promise, even when no one is watching
 
 ---
 
-### 📖 The Ledger of Deeds
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moliagrawal&show_icons=true&hide_border=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=E9D8FD&bg_color=00000000" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moliagrawal&hide_border=true&theme=transparent&ring=D4AF37&fire=D97706&currStreakLabel=E9D8FD&background=00000000" width="49%"/>
-</div>
-
----
-
 <div align="center">
   <h3>✉️ Send a Raven</h3>
   

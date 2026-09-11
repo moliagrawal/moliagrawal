@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:D97706&height=220&section=header&text=Moli%20Agrawal&fontSize=60&fontColor=FFF8E7&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Web3%20%26%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=E9D8FD" width="100%"/>
+  <!-- Royal Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:D97706&height=220&section=header&text=Moli%20Agrawal&fontSize=60&fontColor=FFF8E7&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Web3%20and%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=E9D8FD&v=10" width="100%"/>
   
   <!-- Dynamic Typing SVG Banner -->
   <a href="https://git.io/typing-svg">
@@ -144,5 +144,5 @@ approach: correctness under real-world failure conditions — restarts, reorgs, 
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:6D28D9,100:2E1065&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,100:2E1065&height=100&section=footer&v=10" width="100%"/>
 </div>
